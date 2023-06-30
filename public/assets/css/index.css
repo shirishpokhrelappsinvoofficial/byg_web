@@ -1,0 +1,164 @@
+/* .slick-arrow.slick-prev,.slick-arrow.slick-next{
+  border: 4px
+   solid;
+      display: block;
+      border-color: black black transparent transparent;
+      background: transparent !important;
+      height: 24px ;
+      width: 24px;
+      margin: 0 auto;
+      transform: rotate(
+  -51deg);
+  transform-origin: 16px 8px;
+}
+.slick-arrow.slick-next{
+  transform: rotate(
+    -231deg);
+} */
+
+.product-style-1 {
+  transition: 0.3s ease-in;
+  transform: scale(1);
+}
+
+.product-style-1:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0.5rem 1rem rgba(192 53 53 / 15%);
+}
+
+.fade-enter {
+  /* opacity: 0; */
+
+  transform: scale(0.8);
+  transform-origin: left top;
+  /* transform: scale(.76); */
+}
+
+.fade-enter-active {
+  opacity: 0;
+}
+
+.fade-exit-active {
+  opacity: 0;
+}
+
+.fade-enter-done {
+  transform-origin: top left;
+  transform: scale(1);
+  transform: translateY(0);
+  transition: 0.5s ease-in;
+  /* transform: scale(1); */
+  /* animation-name: fade-in; */
+  animation-delay: 0.5s;
+  animation-duration: 2s;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.product-content:hover .wishlist {
+  opacity: 1;
+}
+
+.wishlist {
+  border: 1px solid;
+  opacity: 0;
+  transition: 0.7s ease;
+  padding: 9px;
+  position: absolute;
+  width: 100%;
+  border: 1px solid #c1c1c1;
+  left: 0;
+  z-index: 1000;
+  cursor: pointer;
+  background-color: white !important;
+  bottom: 135px;
+}
+
+.wishlist.active {
+  background: #e50041 !important;
+  border: 1px solid #e50041;
+  color: white !important;
+}
+
+.wishlist.active i {
+  color: white;
+}
+
+.slick-dots li {
+  width: 14px;
+  margin: 0 2px;
+  transition: width 0.3s ease-in-out;
+}
+
+.slick-dots .slick-active {
+  width: 56px;
+  transition: width 0.3s ease-in-out;
+}
+
+.slick-dots .slick-active .ft-slick__dots--custom .loading {
+  width: 56px;
+  top: 0px;
+  overflow: hidden;
+}
+
+.loading {
+  height: 8px;
+  animation: loading 5s ease-in;
+  background-image: linear-gradient(270deg, #4fd15a, #03ac0e);
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+}
+
+ul.slick-dots li {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border: 1px solid #e50041;
+  border-radius: 10px;
+}
+
+.slick-dots .slick-active {
+  background-color: #e50041;
+}
+
+.slick-dots {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+}
+
+.wishlists .product-quantity,
+.wishlists .wishlist {
+  display: none !important;
+}
+
+.locationIconClass {
+  position: absolute;
+  top: 0;
+  background-color: rgb(229, 0, 65);
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  color: #fff;
+  line-height: 24px;
+  left: 0;
+}
+
+.fa-location-icon-bg {
+  width: 15px;
+  height: 15px;
+  object-fit: contain;
+}

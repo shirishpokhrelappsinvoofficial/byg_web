@@ -1,0 +1,765 @@
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/minus.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/minus.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/plus.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/plus.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/rs_black.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/rs_black.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/rs_green.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/rs_green.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/rs_red.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/rs_red.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/wishlist_black.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/wishlist_black.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/wishlist_white.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/wishlist_white.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/carousel/index.js": {
+      "*": {
+        "id": "(sc_client)/./components/carousel/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/gridcard/index.js": {
+      "*": {
+        "id": "(sc_client)/./components/gridcard/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/homepage/Homepage.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/homepage/Homepage.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/loader/index.js": {
+      "*": {
+        "id": "(sc_client)/./components/loader/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/singleSlider/index.js": {
+      "*": {
+        "id": "(sc_client)/./components/singleSlider/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs": {
+      "*": {
+        "id": "(sc_client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/call.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/call.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/delete.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/delete.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/login.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/login.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/logo.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/logo.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/search.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/search.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/img/whatsappIcon.png": {
+      "*": {
+        "id": "(sc_client)/./public/assets/img/whatsappIcon.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/GoogleAnalytics/index.js": {
+      "*": {
+        "id": "(sc_client)/./components/GoogleAnalytics/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/footer/index.js": {
+      "*": {
+        "id": "(sc_client)/./components/footer/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/header/index.js": {
+      "*": {
+        "id": "(sc_client)/./components/header/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/loginmodal/index.js": {
+      "*": {
+        "id": "(sc_client)/./components/loginmodal/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/script.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/script.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./redux/Providers.jsx": {
+      "*": {
+        "id": "(sc_client)/./redux/Providers.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./redux/store/index.js": {
+      "*": {
+        "id": "(sc_client)/./redux/store/index.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./redux/store/profileModalSlice.js": {
+      "*": {
+        "id": "(sc_client)/./redux/store/profileModalSlice.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/minus.png": {
+      "id": "(app-client)/./public/assets/img/minus.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/plus.png": {
+      "id": "(app-client)/./public/assets/img/plus.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/rs_black.png": {
+      "id": "(app-client)/./public/assets/img/rs_black.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/rs_green.png": {
+      "id": "(app-client)/./public/assets/img/rs_green.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/rs_red.png": {
+      "id": "(app-client)/./public/assets/img/rs_red.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/wishlist_black.png": {
+      "id": "(app-client)/./public/assets/img/wishlist_black.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/wishlist_white.png": {
+      "id": "(app-client)/./public/assets/img/wishlist_white.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/carousel/index.js": {
+      "id": "(app-client)/./components/carousel/index.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/gridcard/index.js": {
+      "id": "(app-client)/./components/gridcard/index.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/homepage/Homepage.jsx": {
+      "id": "(app-client)/./components/homepage/Homepage.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/loader/index.js": {
+      "id": "(app-client)/./components/loader/index.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/singleSlider/index.js": {
+      "id": "(app-client)/./components/singleSlider/index.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/react-toastify/dist/react-toastify.esm.mjs": {
+      "id": "(app-client)/./node_modules/react-toastify/dist/react-toastify.esm.mjs",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/call.png": {
+      "id": "(app-client)/./public/assets/img/call.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/delete.png": {
+      "id": "(app-client)/./public/assets/img/delete.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/login.png": {
+      "id": "(app-client)/./public/assets/img/login.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/logo.png": {
+      "id": "(app-client)/./public/assets/img/logo.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/search.png": {
+      "id": "(app-client)/./public/assets/img/search.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/img/whatsappIcon.png": {
+      "id": "(app-client)/./public/assets/img/whatsappIcon.png",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/GoogleAnalytics/index.js": {
+      "id": "(app-client)/./components/GoogleAnalytics/index.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/footer/index.js": {
+      "id": "(app-client)/./components/footer/index.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/header/index.js": {
+      "id": "(app-client)/./components/header/index.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/loginmodal/index.js": {
+      "id": "(app-client)/./components/loginmodal/index.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/client/script.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/next/dist/esm/client/script.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/script.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/redux/Providers.jsx": {
+      "id": "(app-client)/./redux/Providers.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/redux/store/index.js": {
+      "id": "(app-client)/./redux/store/index.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/redux/store/profileModalSlice.js": {
+      "id": "(app-client)/./redux/store/profileModalSlice.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/app/page": {
+      "modules": [
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/loader/loader.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/react-multi-carousel/lib/styles.css"
+      ],
+      "files": [
+        "static/css/app/page.css"
+      ]
+    },
+    "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/app/layout": {
+      "modules": [
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/app/globals.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/loader/loader.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/components/otpInput/otp.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/react-phone-input-2/lib/style.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/node_modules/react-toastify/dist/ReactToastify.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/css/App.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/css/bootstrap.min.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/css/default.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/css/index.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/css/plugin.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/css/slick.css",
+        "/Users/appsinvo/Documents/shirish docs/projects/bookyourgift-next-js-website/public/assets/css/style.css"
+      ],
+      "files": [
+        "static/css/app/layout.css"
+      ]
+    }
+  }
+}
